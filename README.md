@@ -12,12 +12,18 @@ We propose a possible scenario in which we want to evaluate the information in a
 - Give me the sex of the patients (if applicable) 
 - Give me the origin of the patients (if applicable)
 
-Use an LLM model to identify this information and include comments explaining the prompt engineering and reasoning used. 
+Use an LLM model to identify this information and include comments explaining the prompt engineering and reasoning used. You don't have to subscribe to openai, or any other or buying subscription for this task. A simple BERT model as placeholder would suffice for instance. The idea is to see the pipeline, not the actual results. 
 
 #### 2. Think about the text
 
 - Do you find that there is relevant information missing from the data we have asked for?
 - Can they be inferred? How?
+
+#### 3. Sharing your results
+- You can use any mean to share the result, jupyter notebook, python script, etc.
+
+##### 4. Use of AI to do the test
+- You are free to use any tools you want to do that test. However do not overcomplicate it and be sure your code run. We prefer something simple but that works, than an overcomplicated solution we cannot read or run.
 
 ## Seting up your environment
 
