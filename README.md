@@ -14,6 +14,8 @@ We propose a possible scenario in which we want to evaluate the information in a
 
 Use an LLM model to identify this information and include comments explaining the prompt engineering and reasoning used. You don't have to subscribe to openai, or any other or buying subscription for this task. A simple BERT model as placeholder would suffice for instance. The idea is to see the pipeline, not the actual results. 
 
+Here is a link to a [google collab notebook](https://colab.research.google.com/drive/18sxFHCgMxXxr6KmQSZ7lVSIMd4lkJUhY?usp=sharing) for you to start. You do not have to use it, but it's there to make the task easier for you. 
+
 #### 2. Think about the text
 
 - Do you find that there is relevant information missing from the data we have asked for?
@@ -22,7 +24,7 @@ Use an LLM model to identify this information and include comments explaining th
 #### 3. Sharing your results
 - You can use any mean to share the result, jupyter notebook, python script, etc.
 
-##### 4. Use of AI to do the test
+#### 4. Use of AI to do the test
 - You are free to use any tools you want to do that test. However do not overcomplicate it and be sure your code run. We prefer something simple but that works, than an overcomplicated solution we cannot read or run.
 
 ## Seting up your environment
@@ -31,7 +33,7 @@ Use an LLM model to identify this information and include comments explaining th
 
 We recommend the use of [Bioconda](http://bioconda.github.io/) or [Virtualenv](https://virtualenv.pypa.io/en/latest/installation.html) to facilitate cleaning and reproducibility of the exercise. Make sure that you have installed and configured the necessary packages for the installation.   
 
-Onece you are done, export your a file with your environment. 
+Once you are done, export your file with your environment. 
 
 **conda**
 ```
@@ -70,7 +72,9 @@ We recommend the use of several **commits**, but it is not relevant for this exe
 
 #### 4. Explaining your results in a pull request.
 
-Opens a pull request to the original repository explaining the results of the exercise. 
+Open a pull request to the original repository explaining the results of the exercise. In case you decide to use our google colab, please share the notebook back to us (give us your version, **don't try to modify the original notebook**).
+
+
 
 
 
