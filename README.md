@@ -14,7 +14,6 @@ We propose a possible scenario in which we want to evaluate the information in a
 
 Use an LLM model to identify this information and include comments explaining the prompt engineering and reasoning used. You don't have to subscribe to openai, or any other or buying subscription for this task. A simple BERT model as placeholder would suffice for instance. The idea is to see the pipeline, not the actual results. 
 
-Here is a link to a [google collab notebook](https://colab.research.google.com/drive/18sxFHCgMxXxr6KmQSZ7lVSIMd4lkJUhY?usp=sharing) for you to start. You do not have to use it, but it's there to make the task easier for you. 
 
 #### 2. Think about the text
 
@@ -28,6 +27,12 @@ Here is a link to a [google collab notebook](https://colab.research.google.com/d
 - You are free to use any tools you want to do that test. However do not overcomplicate it and be sure your code run. We prefer something simple but that works, than an overcomplicated solution we cannot read or run.
 
 ## Seting up your environment
+You can use these options as you prefer
+
+### Google Collab
+
+Here is a link to a [google collab notebook](https://colab.research.google.com/drive/18sxFHCgMxXxr6KmQSZ7lVSIMd4lkJUhY?usp=sharing) for you to start. You do not have to use it, but it's there to make the task easier for you. 
+When you finish, push the notebook copy here.
 
 ### Conda / Virtualenv 
 
