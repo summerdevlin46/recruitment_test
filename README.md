@@ -69,17 +69,6 @@ https://github.com/<your_username>/recruitment_test
 ```
 **Clone** this repository in your local machine. 
 
-#### 3. Commit your results in a new branch
-
-Once the exercise is finished create a new branch: **recruitment_test_results** and save the final changes made to the repository. 
-
-We recommend the use of several **commits**, but it is not relevant for this exercise.
-
-#### 4. Explaining your results in a pull request.
-
-Open a pull request to the original repository explaining the results of the exercise. In case you decide to use our google colab, please share the notebook back to us (give us your version, **don't try to modify the original notebook**).
-
-
 
 
 
