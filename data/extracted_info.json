@@ -1,0 +1,533 @@
+[
+    {
+        "pmcid": "PMC10167034",
+        "extracted_info": {
+            "disease_condition": "Sepsis",
+            "total_patients": 153,
+            "case_group_patients": 96,
+            "control_group_patients": 12,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC10191296",
+        "extracted_info": {
+            "disease_condition": "Parkinson disease, Alzheimer disease, Amyotrophic lateral sclerosis",
+            "total_patients": 42785,
+            "case_group_patients": {
+                "PD only": 28679,
+                "AD only": 8332,
+                "ALS only": 1341,
+                "Mixed PD/AD/ALS": 4453
+            },
+            "control_group_patients": 334387,
+            "patient_sex": {
+                "Male": 43101,
+                "Female": 56389
+            },
+            "patient_origin": {
+                "Non-Hispanic White": 86700,
+                "Black": 57800,
+                "Hispanic": 28000,
+                "Asian/Pacific Islander": 47000,
+                "Other": 47000
+            }
+        }
+    },
+    {
+        "pmcid": "PMC10390885",
+        "extracted_info": {
+            "disease_condition": "Breast cancer",
+            "total_patients": 42,
+            "case_group_patients": 30,
+            "control_group_patients": 12,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC2383879",
+        "extracted_info": {
+            "disease_condition": "Myocardial Infarction (MI) and Acute Coronary Syndrome (ACS)",
+            "total_patients": 985,
+            "case_group_patients": 697,
+            "control_group_patients": 289,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC2693442",
+        "extracted_info": {
+            "disease_condition": "Warthin's tumor",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC3145824",
+        "extracted_info": {
+            "disease_condition": "Breast cancer",
+            "total_patients": 779,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC3174812",
+        "extracted_info": {
+            "disease_condition": "None",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC3212907",
+        "extracted_info": {
+            "disease_condition": "Post-menopausal osteoporosis",
+            "total_patients": 79,
+            "case_group_patients": {
+                "Exercise + Supplement": 21,
+                "Exercise": 20,
+                "Supplement": 20,
+                "Control": 18
+            },
+            "control_group_patients": {
+                "Exercise + Supplement": 18,
+                "Exercise": 20,
+                "Supplement": 20,
+                "Control": 18
+            },
+            "patient_sex": "Female",
+            "patient_origin": "Iran"
+        }
+    },
+    {
+        "pmcid": "PMC3534646",
+        "extracted_info": {
+            "disease_condition": "Hearing problems",
+            "total_patients": 671,
+            "case_group_patients": 103,
+            "control_group_patients": 568,
+            "patient_sex": [
+                "Male",
+                "Female"
+            ],
+            "patient_origin": "Stockholm County, Sweden"
+        }
+    },
+    {
+        "pmcid": "PMC3909226",
+        "extracted_info": {
+            "disease_condition": "Schistosomiasis",
+            "total_patients": 201,
+            "case_group_patients": 50,
+            "control_group_patients": 151,
+            "patient_sex": {
+                "male": 26,
+                "female": 24
+            },
+            "patient_origin": {
+                "Brazil": {
+                    "region": "Southeast",
+                    "state": "Minas Gerais"
+                }
+            }
+        }
+    },
+    {
+        "pmcid": "PMC4393161",
+        "extracted_info": {
+            "disease_condition": "Inflammatory bowel disease",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC5040013",
+        "extracted_info": {
+            "disease_condition": "Dysferlinopathy",
+            "total_patients": 87,
+            "case_group_patients": 45,
+            "control_group_patients": 31,
+            "patient_sex": [
+                "Male: 51, Female: 38"
+            ],
+            "patient_origin": [
+                "Mainland China: 27 provinces, including 1 patient from Hui ethnicity and 1 patient from Uygur ethnicity"
+            ]
+        }
+    },
+    {
+        "pmcid": "PMC5425199",
+        "extracted_info": {
+            "disease_condition": "Cervical cancer",
+            "total_patients": 93,
+            "case_group_patients": 41,
+            "control_group_patients": 27,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC5441889",
+        "extracted_info": {
+            "disease_condition": null,
+            "total_patients": 305,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": [
+                "Male",
+                "Female",
+                "Male",
+                "Female",
+                "Male",
+                "Female",
+                "Male",
+                "Female",
+                "Male",
+                "Female",
+                "Male",
+                "Female"
+            ],
+            "patient_origin": [
+                "Basketball",
+                "Volleyball",
+                "Handball",
+                "Basketball",
+                "Volleyball",
+                "Handball",
+                "Basketball",
+                "Volleyball",
+                "Handball",
+                "Basketball",
+                "Volleyball",
+                "Handball"
+            ]
+        }
+    },
+    {
+        "pmcid": "PMC5601641",
+        "extracted_info": {
+            "disease_condition": "Glioblastoma",
+            "total_patients": 82,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": {
+                "male": 48,
+                "female": 34
+            },
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC5717332",
+        "extracted_info": {
+            "disease_condition": "Breast Cancer (BC)",
+            "total_patients": 25778,
+            "case_group_patients": null,
+            "control_group_patients": 101017,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC5839230",
+        "extracted_info": {
+            "disease_condition": "Adult attachment",
+            "total_patients": 979,
+            "case_group_patients": 827,
+            "control_group_patients": 152,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC6060212",
+        "extracted_info": {
+            "disease_condition": "Disorders of consciousness",
+            "total_patients": 19,
+            "case_group_patients": 9,
+            "control_group_patients": 10,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC6286024",
+        "extracted_info": {
+            "disease_condition": "Leprosy",
+            "total_patients": 305,
+            "case_group_patients": 74,
+            "control_group_patients": 231,
+            "patient_sex": {
+                "male": 194,
+                "female": 111
+            },
+            "patient_origin": {
+                "North India": 305
+            },
+            "vitamin_d_level": {
+                "mean": 26.91,
+                "standard_deviation": 10.89
+            },
+            "vdr_mrna_expression": {
+                "tuberculoid": 0.702,
+                "lepromatous": 0.462,
+                "T1R": 1.044,
+                "T2R": 5.62
+            },
+            "vdr_gene_polymorphism": {
+                "Taq1": {
+                    "tt": 0.47,
+                    "Tt": 47.81
+                },
+                "Fok1": {
+                    "FF": 47.57,
+                    "Ff": 45.83,
+                    "ff": 7
+                },
+                "Apa1": {
+                    "AA": 41.75,
+                    "Aa": 46.46,
+                    "aa": 11.78
+                }
+            },
+            "haplotype": {
+                "t-F-a": 0.261,
+                "t-f-a": 0.111
+            }
+        }
+    },
+    {
+        "pmcid": "PMC6730009",
+        "extracted_info": {
+            "disease_condition": "Shiga toxigenic Escherichia coli (STEC) O157:H7",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_origin": "Humans and cattle (ruminants)"
+        }
+    },
+    {
+        "pmcid": "PMC6760014",
+        "extracted_info": {
+            "disease_condition": null,
+            "total_patients": 27,
+            "case_group_patients": 24.52,
+            "control_group_patients": 2.79,
+            "patient_sex": "Female: 10, Male: 17",
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC6775309",
+        "extracted_info": {
+            "disease_condition": "Cervical cancer",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC6853912",
+        "extracted_info": {
+            "disease_condition": "Renal cell carcinoma (RCC)",
+            "total_patients": 100,
+            "case_group_patients": 50,
+            "control_group_patients": 100,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC6955584",
+        "extracted_info": {
+            "disease_condition": "Frozen-thawed embryo transfer (FET)",
+            "total_patients": 259,
+            "case_group_patients": 63,
+            "control_group_patients": 60,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC7007877",
+        "extracted_info": {
+            "disease_condition": "Estrogen concentrations",
+            "total_patients": 1838,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": {
+                "male": 772,
+                "female": 1066
+            },
+            "patient_origin": {
+                "Copenhagen Mother\u2013Child Cohort": {
+                    "boys": 50,
+                    "girls": 50,
+                    "10 to 14 months": 17,
+                    "4.2 to 6.0 years": 48
+                },
+                "Copenhagen Puberty Study": {
+                    "boys": 499,
+                    "girls": 604
+                },
+                "Health2008": {
+                    "men": 157,
+                    "women": 93
+                },
+                "FAC Clinic": {
+                    "women": 194
+                }
+            }
+        }
+    },
+    {
+        "pmcid": "PMC7449478",
+        "extracted_info": {
+            "disease_condition": "Dementia, Behavioral and Psychological Symptoms of Dementia (BPSD)",
+            "total_patients": null,
+            "case_group_patients": 4,
+            "control_group_patients": 4,
+            "patient_sex": "Female, Male",
+            "patient_origin": "Care homes, Residential care for individuals with and without dementia"
+        }
+    },
+    {
+        "pmcid": "PMC7657407",
+        "extracted_info": {
+            "disease_condition": "Infertility",
+            "total_patients": 108,
+            "case_group_patients": 27,
+            "control_group_patients": 27,
+            "patient_sex": "Both male and female",
+            "patient_origin": "Iran"
+        }
+    },
+    {
+        "pmcid": "PMC7661891",
+        "extracted_info": {
+            "disease_condition": "Endothelial progenitor cells (EPCs), angiogenesis, ischemic diseases",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC8288503",
+        "extracted_info": {
+            "disease_condition": "Systemic sclerosis",
+            "total_patients": 20,
+            "case_group_patients": 10,
+            "control_group_patients": 10,
+            "patient_sex": "Female, Male",
+            "patient_origin": "Western societies"
+        }
+    },
+    {
+        "pmcid": "PMC8382172",
+        "extracted_info": {
+            "disease_condition": "Severe Acute Malnutrition (SAM)",
+            "total_patients": 170,
+            "case_group_patients": 85,
+            "control_group_patients": 85,
+            "patient_sex": {
+                "female": 41,
+                "male": 44
+            },
+            "patient_origin": {
+                "urban": 58.8,
+                "rural": 41.2
+            }
+        }
+    },
+    {
+        "pmcid": "PMC8976245",
+        "extracted_info": {
+            "disease_condition": "COVID-19, health inequalities, digital health inequities",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC9333080",
+        "extracted_info": {
+            "disease_condition": "Low vision, retinopathy prematurity, rubella retinopathy, congenital rubella syndrome, underdeveloped retina, Leber's congenital amaurosis",
+            "total_patients": 6,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": [
+                "Male",
+                "Female"
+            ],
+            "patient_origin": [
+                "New York",
+                "Florida"
+            ]
+        }
+    },
+    {
+        "pmcid": "PMC9381901",
+        "extracted_info": {
+            "disease_condition": "Alzheimer's disease",
+            "total_patients": 14648,
+            "case_group_patients": null,
+            "control_group_patients": 89766,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC9529122",
+        "extracted_info": {
+            "disease_condition": "Epithelial ovarian carcinoma (EOC)",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC9616492",
+        "extracted_info": {
+            "disease_condition": "Acute Monocytic Leukemia (AML)",
+            "total_patients": null,
+            "case_group_patients": null,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    },
+    {
+        "pmcid": "PMC9697589",
+        "extracted_info": {
+            "disease_condition": "Dental aerosols",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_origin": null
+        }
+    }
+]
