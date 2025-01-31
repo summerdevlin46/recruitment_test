@@ -1,0 +1,746 @@
+[
+    {
+        "pmcid": "PMC10167034",
+        "extracted_info": {
+            "disease_condition": "Sepsis",
+            "total_patients": 108,
+            "case_group_patients": 96,
+            "control_group_patients": 12,
+            "patient_sex": {
+                "Female": 75.6,
+                "Male": 24.4
+            },
+            "patient_demographics": {
+                "Age": 53.4,
+                "Race": {
+                    "White": 68.9,
+                    "Black": 22.2,
+                    "Other": 8.9
+                }
+            },
+            "study_site": "Medical University of South Carolina"
+        }
+    },
+    {
+        "pmcid": "PMC10191296",
+        "extracted_info": {
+            "disease_condition": "Parkinson disease, Alzheimer disease, Amyotrophic lateral sclerosis",
+            "total_patients": 427116,
+            "case_group_patients": 46310,
+            "control_group_patients": 334387,
+            "patient_sex": {
+                "male": 43110,
+                "female": 10600
+            },
+            "patient_demographics": {
+                "age": {
+                    "66-69": 34110,
+                    "70-74": 22500,
+                    "75-79": 12500,
+                    "80-90": 44500
+                },
+                "race/ethnicity": {
+                    "White": 37100,
+                    "Black": 500,
+                    "Hispanic": 100,
+                    "API/other/unknown": 100
+                },
+                "use_of_medical_care": {
+                    "annual_visits": {
+                        "mean": 16120,
+                        "sd": 129
+                    },
+                    "days_in_hospital": {
+                        "mean": 489,
+                        "sd": 176
+                    },
+                    "selected_conditions": {
+                        "mean": 355,
+                        "sd": 211
+                    },
+                    "coped_with_cancer": {
+                        "mean": 205,
+                        "sd": 195
+                    },
+                    "coped_with_myocardial_infarction": {
+                        "mean": 207,
+                        "sd": 194
+                    },
+                    "coped_with_arthritis": {
+                        "mean": 213,
+                        "sd": 191
+                    }
+                }
+            },
+            "study_site": "United States"
+        }
+    },
+    {
+        "pmcid": "PMC10390885",
+        "extracted_info": {
+            "disease_condition": "Breast cancer",
+            "total_patients": 42,
+            "case_group_patients": 30,
+            "control_group_patients": 12,
+            "patient_sex": "Not specified",
+            "patient_demographics": {
+                "age": 56,
+                "race": "White",
+                "ethnicity": "Not specified",
+                "country": "Not specified"
+            },
+            "study_site": "Six sites in the United States and eight sites in Spain"
+        }
+    },
+    {
+        "pmcid": "PMC2383879",
+        "extracted_info": {
+            "disease_condition": "Myocardial infarction (MI) and Acute Coronary Syndrome (ACS)",
+            "total_patients": 985,
+            "case_group_patients": 368,
+            "control_group_patients": 289,
+            "patient_sex": "Male: 70.6%, Female: 29.4%",
+            "patient_demographics": {
+                "Age": "44.2 (5.8) for eoCAD, 43.9 (6.1) for ACS",
+                "Race": "Caucasian: 92.9%, African American: 2.1%, Asian: 0.7%, Hispanic: 0.0%, Other: 0.2%",
+                "Body Mass Index (BMI)": "29.9 (5.8) for eoCAD, 29.9 (6.3) for ACS"
+            },
+            "study_site": "Duke University, Durham, North Carolina, United States"
+        }
+    },
+    {
+        "pmcid": "PMC2693442",
+        "extracted_info": {
+            "disease_condition": "Warthin's tumor",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_demographics": null,
+            "study_site": "Ain Shams University, Oral Pathology Department, Faculty of Dentistry"
+        }
+    },
+    {
+        "pmcid": "PMC3145824",
+        "extracted_info": {
+            "disease_condition": "Breast cancer",
+            "total_patients": 779,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_demographics": null,
+            "study_site": "Akita Red Cross Hospital and Iwate Medical School"
+        }
+    },
+    {
+        "pmcid": "PMC3174812",
+        "extracted_info": {
+            "disease_condition": null,
+            "total_patients": 13,
+            "case_group_patients": 13,
+            "control_group_patients": 0,
+            "patient_sex": {
+                "male": 3,
+                "female": 10
+            },
+            "patient_demographics": {
+                "age": 27,
+                "sex": "female"
+            },
+            "study_site": "Royal Holloway"
+        }
+    },
+    {
+        "pmcid": "PMC3212907",
+        "extracted_info": {
+            "disease_condition": "Post-menopausal osteoporosis",
+            "total_patients": 79,
+            "case_group_patients": {
+                "E+S": 21,
+                "E": 20,
+                "S": 20,
+                "Con": 18
+            },
+            "control_group_patients": {
+                "E+S": 21,
+                "E": 20,
+                "S": 20,
+                "Con": 18
+            },
+            "patient_sex": "Female",
+            "patient_demographics": {
+                "Age (yr)": {
+                    "E+S": 59.7,
+                    "E": 61.4,
+                    "S": 63.1,
+                    "Con": 58.9
+                },
+                "Height (m)": {
+                    "E+S": 1.64,
+                    "E": 1.67,
+                    "S": 1.69,
+                    "Con": 1.68
+                },
+                "Weight (kg)": {
+                    "E+S": 75.2,
+                    "E": 77.5,
+                    "S": 78.3,
+                    "Con": 75.9
+                },
+                "BMI (kg\u00b7m-2)": {
+                    "E+S": 26.3,
+                    "E": 25.1,
+                    "S": 27.9,
+                    "Con": 28.5
+                },
+                "Fat (%)": {
+                    "E+S": 29.8,
+                    "E": 27.9,
+                    "S": 29.1,
+                    "Con": 28.1
+                },
+                "VO2max": {
+                    "E+S": 33.7,
+                    "E": 32.2,
+                    "S": 31.2,
+                    "Con": 32.7
+                },
+                "PAS": {
+                    "E+S": 135,
+                    "E": 134,
+                    "S": 140,
+                    "Con": 138
+                }
+            },
+            "study_site": "Urmia University, Iran"
+        }
+    },
+    {
+        "pmcid": "PMC3534646",
+        "extracted_info": {
+            "disease_condition": "Hearing problems",
+            "total_patients": 687,
+            "case_group_patients": 100,
+            "control_group_patients": 100,
+            "patient_sex": [
+                "women",
+                "men"
+            ],
+            "patient_demographics": {
+                "age": null,
+                "gender": null,
+                "location": "Stockholm County"
+            },
+            "study_site": "Stockholm University, Stress Research Institute"
+        }
+    },
+    {
+        "pmcid": "PMC3909226",
+        "extracted_info": {
+            "disease_condition": "Schistosomiasis",
+            "total_patients": 201,
+            "case_group_patients": 50,
+            "control_group_patients": 52,
+            "patient_sex": [
+                "Female: 24",
+                "Male: 26"
+            ],
+            "patient_demographics": {
+                "Age": "8-88 years",
+                "Population migration index": "Low",
+                "Previous treatment": "No",
+                "Previous infection": "No"
+            },
+            "study_site": "Pedra Preta, a schistosomiasis endemic area in the rural region of Montes Claros, southeast Brazil"
+        }
+    },
+    {
+        "pmcid": "PMC4393161",
+        "extracted_info": {
+            "disease_condition": "Inflammatory bowel disease",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_demographics": null,
+            "study_site": "Japan"
+        }
+    },
+    {
+        "pmcid": "PMC5040013",
+        "extracted_info": {
+            "disease_condition": "Dysferlinopathy",
+            "total_patients": 87,
+            "case_group_patients": 45,
+            "control_group_patients": 31,
+            "patient_sex": {
+                "male": 51,
+                "female": 38
+            },
+            "patient_demographics": {
+                "age": {
+                    "mean": 21.1,
+                    "standard_deviation": 7.3
+                },
+                "family_history": 16,
+                "phenotype": {
+                    "LGMD2B": 45,
+                    "MM": 31,
+                    "PDM": 7,
+                    "hyperCKemia": 6
+                }
+            },
+            "study_site": "Peking University First Hospital"
+        }
+    },
+    {
+        "pmcid": "PMC5425199",
+        "extracted_info": {
+            "disease_condition": "Cervical cancer",
+            "total_patients": 94,
+            "case_group_patients": 41,
+            "control_group_patients": 27,
+            "patient_sex": null,
+            "patient_demographics": null,
+            "study_site": "First Affiliated Hospital of Xi'an Jiaotong University Medical College"
+        }
+    },
+    {
+        "pmcid": "PMC5441889",
+        "extracted_info": {
+            "disease_condition": null,
+            "total_patients": 305,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_demographics": {
+                "age": "12-16",
+                "sex": null
+            },
+            "study_site": "Biomechanical Analysis Laboratory"
+        }
+    },
+    {
+        "pmcid": "PMC5601641",
+        "extracted_info": {
+            "disease_condition": "Glioblastoma",
+            "total_patients": 82,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": {
+                "male": 48,
+                "female": 34
+            },
+            "patient_demographics": {
+                "age_range": [
+                    34,
+                    77
+                ],
+                "mean_age": {
+                    "male": 56,
+                    "female": 62
+                }
+            },
+            "study_site": "Changhai Hospital"
+        }
+    },
+    {
+        "pmcid": "PMC5717332",
+        "extracted_info": {
+            "disease_condition": "Breast Cancer",
+            "total_patients": 25778,
+            "case_group_patients": 12889,
+            "control_group_patients": 12889,
+            "patient_sex": null,
+            "patient_demographics": null,
+            "study_site": "Nationwide Breast Cancer Registry and Health Examinees Study"
+        }
+    },
+    {
+        "pmcid": "PMC5839230",
+        "extracted_info": {
+            "disease_condition": "Attachment disorder",
+            "total_patients": 979,
+            "case_group_patients": 419,
+            "control_group_patients": 408,
+            "patient_sex": null,
+            "patient_demographics": {
+                "age": 34.2,
+                "sex": null,
+                "education": null,
+                "occupation": null,
+                "marital_status": "single",
+                "family_structure": null
+            },
+            "study_site": "Italy"
+        }
+    },
+    {
+        "pmcid": "PMC6060212",
+        "extracted_info": {
+            "disease_condition": "Disorders of consciousness",
+            "total_patients": 19,
+            "case_group_patients": 9,
+            "control_group_patients": 10,
+            "patient_sex": null,
+            "patient_demographics": null,
+            "study_site": "Rehabilitation Center of Wu Jing Hospital in Zhejiang Province, China"
+        }
+    },
+    {
+        "pmcid": "PMC6286024",
+        "extracted_info": {
+            "disease_condition": "Leprosy",
+            "total_patients": 305,
+            "case_group_patients": 305,
+            "control_group_patients": 200,
+            "patient_sex": {
+                "male": 194,
+                "female": 111
+            },
+            "patient_demographics": {
+                "age": {
+                    "mean": 35.01,
+                    "sd": 13.95
+                },
+                "gender": {
+                    "male": 63.6,
+                    "female": 36.39
+                }
+            },
+            "study_site": "TLM Community Hospital, Shahdara, Delhi"
+        }
+    },
+    {
+        "pmcid": "PMC6730009",
+        "extracted_info": {
+            "disease_condition": "Shiga toxigenic Escherichia coli (STEC) O157:H7",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_demographics": null,
+            "study_site": "Public Health England (PHE)"
+        }
+    },
+    {
+        "pmcid": "PMC6760014",
+        "extracted_info": {
+            "disease_condition": null,
+            "total_patients": 27,
+            "case_group_patients": 25,
+            "control_group_patients": null,
+            "patient_sex": {
+                "female": 10,
+                "male": null
+            },
+            "patient_demographics": {
+                "age": {
+                    "mean": 24.52,
+                    "standard_deviation": 2.79,
+                    "age_range": "20-34 years"
+                },
+                "handedness": "right-handed"
+            },
+            "study_site": "Sungkyunkwan University"
+        }
+    },
+    {
+        "pmcid": "PMC6775309",
+        "extracted_info": {
+            "disease_condition": "Cervical cancer",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_demographics": null,
+            "study_site": "Not specified"
+        }
+    },
+    {
+        "pmcid": "PMC6853912",
+        "extracted_info": {
+            "disease_condition": "Renal Cell Carcinoma (RCC)",
+            "total_patients": 100,
+            "case_group_patients": 50,
+            "control_group_patients": 50,
+            "patient_sex": null,
+            "patient_demographics": null,
+            "study_site": "Second Affiliated Hospital of the Anhui Medical University"
+        }
+    },
+    {
+        "pmcid": "PMC6955584",
+        "extracted_info": {
+            "disease_condition": "Infertility",
+            "total_patients": 183,
+            "case_group_patients": 63,
+            "control_group_patients": 60,
+            "patient_sex": null,
+            "patient_demographics": {
+                "age": {
+                    "median": 35,
+                    "range": [
+                        33,
+                        41
+                    ]
+                },
+                "BMI": {
+                    "median": 20.8,
+                    "range": [
+                        18.9,
+                        22.2
+                    ]
+                },
+                "pregnancy_history": {
+                    "primary": 47.6,
+                    "secondary": 52.3
+                },
+                "previous_transfers": {
+                    "0": 33.3,
+                    "1": 25.4,
+                    ">=2": 41.2
+                },
+                "endometrial_thickness": {
+                    "median": 11.2,
+                    "range": [
+                        10.2,
+                        12.8
+                    ]
+                },
+                "transferred_embryo": {
+                    "cleavage-stage": 49.2,
+                    "blastocyst": 50.7
+                },
+                "blastocyst_quality": {
+                    "high": 71.8,
+                    "poor": 28.1
+                }
+            },
+            "study_site": "Kinutani Women's Clinic, Hiroshima, Japan"
+        }
+    },
+    {
+        "pmcid": "PMC7007877",
+        "extracted_info": {
+            "disease_condition": "Estrogen concentrations in healthy subjects",
+            "total_patients": 1838,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_demographics": null,
+            "study_site": "Rigshospitalet, Copenhagen, Denmark"
+        }
+    },
+    {
+        "pmcid": "PMC7449478",
+        "extracted_info": {
+            "disease_condition": "Dementia",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_demographics": null,
+            "study_site": "Cornwall, UK"
+        }
+    },
+    {
+        "pmcid": "PMC7661891",
+        "extracted_info": {
+            "disease_condition": "Ischemic diseases",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_demographics": null,
+            "study_site": "Affiliated Tumor Hospital of Guangxi Medical University, Institute of Cancer Prevention and Treatment of Guangxi Zhuang Autonomous Region"
+        }
+    },
+    {
+        "pmcid": "PMC8288503",
+        "extracted_info": {
+            "disease_condition": "Systemic sclerosis",
+            "total_patients": 20,
+            "case_group_patients": 10,
+            "control_group_patients": 10,
+            "patient_sex": [
+                "Female",
+                "Male"
+            ],
+            "patient_demographics": null,
+            "study_site": "University of Erlangen-Nuremberg"
+        }
+    },
+    {
+        "pmcid": "PMC8382172",
+        "extracted_info": {
+            "disease_condition": "Severe Acute Malnutrition (SAM)",
+            "total_patients": 85,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_demographics": {
+                "age": {
+                    "mean": 19.5,
+                    "sd": 9.8
+                },
+                "sex": {
+                    "female": 41,
+                    "male": 44
+                },
+                "education": {
+                    "preschool": 18,
+                    "primary": 41,
+                    "secondary": 26,
+                    "higher": 0
+                },
+                "income": {
+                    "mean": 20451,
+                    "sd": 24661
+                },
+                "number_of_children": {
+                    "mean": 3.0,
+                    "sd": 1.4
+                },
+                "household_area": {
+                    "urban": 50,
+                    "rural": 35
+                }
+            },
+            "study_site": "Moyo Nutritional Rehabilitation and Research Unit, Blantyre, Malawi"
+        }
+    },
+    {
+        "pmcid": "PMC8976245",
+        "extracted_info": {
+            "disease_condition": "COVID-19",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_demographics": {
+                "age": null,
+                "ethnicity": null,
+                "income": null,
+                "education": null
+            },
+            "study_site": null
+        }
+    },
+    {
+        "pmcid": "PMC9333080",
+        "extracted_info": {
+            "disease_condition": "Low vision, retinopathy prematurity, rubella retinopathy, congenital rubella syndrome, underdeveloped retina, Leber's congenital amaurosis",
+            "total_patients": 6,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": [
+                "Male",
+                "Female",
+                "Female",
+                "Female",
+                "Female",
+                "Female"
+            ],
+            "patient_demographics": [
+                {
+                    "name": "Bryce",
+                    "age": 55,
+                    "sex": "Male",
+                    "diagnosis": "Retinopathy prematurity",
+                    "family_status": "Married",
+                    "employment_status": "Unemployed"
+                },
+                {
+                    "name": "Claire",
+                    "age": 56,
+                    "sex": "Female",
+                    "diagnosis": "Rubella retinopathy",
+                    "family_status": "Single",
+                    "employment_status": "Retired"
+                },
+                {
+                    "name": "Daisy",
+                    "age": 56,
+                    "sex": "Female",
+                    "diagnosis": "Congenital rubella syndrome",
+                    "family_status": "Married",
+                    "employment_status": "Unemployed"
+                },
+                {
+                    "name": "Layla",
+                    "age": 55,
+                    "sex": "Female",
+                    "diagnosis": "Underdeveloped retina",
+                    "family_status": "Single",
+                    "employment_status": "Retired"
+                },
+                {
+                    "name": "Lauren",
+                    "age": 55,
+                    "sex": "Female",
+                    "diagnosis": "Retinopathy of prematurity",
+                    "family_status": "Single",
+                    "employment_status": "Employed"
+                },
+                {
+                    "name": "Yuna",
+                    "age": 53,
+                    "sex": "Female",
+                    "diagnosis": "Leber's congenital amaurosis",
+                    "family_status": "Single",
+                    "employment_status": "Employed"
+                }
+            ],
+            "study_site": "New York"
+        }
+    },
+    {
+        "pmcid": "PMC9381901",
+        "extracted_info": {
+            "disease_condition": "Alzheimer's disease",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_demographics": null,
+            "study_site": "Taiwan"
+        }
+    },
+    {
+        "pmcid": "PMC9529122",
+        "extracted_info": {
+            "disease_condition": "Epithelial ovarian carcinoma",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_demographics": null,
+            "study_site": null
+        }
+    },
+    {
+        "pmcid": "PMC9616492",
+        "extracted_info": {
+            "disease_condition": "Acute Monocytic Leukemia (AML)",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_demographics": null,
+            "study_site": "None"
+        }
+    },
+    {
+        "pmcid": "PMC9697589",
+        "extracted_info": {
+            "disease_condition": "Dental aerosols",
+            "total_patients": null,
+            "case_group_patients": null,
+            "control_group_patients": null,
+            "patient_sex": null,
+            "patient_demographics": null,
+            "study_site": "Washington University"
+        }
+    }
+]
